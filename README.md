@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋,  I am the letter D. 
+
+- 👨‍💻 Aspiring Software Engineer
+- 📕 Studying Computer Science Major in Software Technology at De La Salle University
+- 🤖 Interested in Human-Computer Interactions, Machine Learning, and Graphics Programming as a field.
+- 🪴 Learning Low-level computing and Computer Architecture 
+- 🔭 Working on my personal portfolio website
 
 <!--
 **LaSalsaEsDeliciosa/LaSalsaEsDeliciosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
